@@ -61,13 +61,13 @@ avg_steps[avg_steps$steps==max(avg_steps$steps),1]
 ```
 
 ```
-[1] 835
+## [1] 835
 ```
 ```
 sum(is.na(data$steps))
 ```
 ```
-[1] 2304
+## [1] 2304
 ```
 ## Imputing missing values
 
